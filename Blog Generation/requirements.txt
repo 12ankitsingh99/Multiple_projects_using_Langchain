@@ -4,3 +4,5 @@ ctransformers
 langchain
 python-box
 streamlit
+
+#also download llma 2 model from official site and place in blog generation folder and in app.py write correct path
