@@ -9,6 +9,7 @@ import streamlit as st
 import os
 
 
+
 ## Function to load OpenAI model and get respones
 
 def get_openai_response(question):
